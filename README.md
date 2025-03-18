@@ -1,3 +1,5 @@
 # dmkarthiksrini.github.io
 
-### Start project Data Analytics Pipeline
+### * Data Analytics Pipeline
+### * Docker project - [Tech with nana](https://www.youtube.com/@TechWorldwithNana/)
+### * DE Pipeline Project - [Karolina](https://www.youtube.com/@karolinasowinska)
